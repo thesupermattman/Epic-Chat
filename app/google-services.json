@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991616320093",
+    "project_id": "epic-chat-8aea7",
+    "storage_bucket": "epic-chat-8aea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991616320093:android:217e72b91f575c593103b4",
+        "android_client_info": {
+          "package_name": "com.example.epicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991616320093-5a5ip6hnpceg1dt0dugg9ehmh1v1llnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNt_TsCHB-lDMMBT8K06USMqtccudkTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991616320093-5a5ip6hnpceg1dt0dugg9ehmh1v1llnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
